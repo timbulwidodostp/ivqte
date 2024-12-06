@@ -1,6 +1,8 @@
 # ivqte
 Instrumental variable estimation of quantile treatment effects Use ivqte With STATA 18
 
+https://www.youtube.com/watch?v=MdMwSj_g2Xg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
